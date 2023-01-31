@@ -1,7 +1,6 @@
 package ui
 
 import "fyne.io/fyne/v2/container"
-import "NikoJT/pixel-art/ui"
 
 func Setup(app *AppInit) {
 	SetupMenus(app)
